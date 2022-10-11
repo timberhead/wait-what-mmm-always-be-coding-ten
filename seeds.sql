@@ -27,7 +27,7 @@ VALUES
 ("Laboratory Test Subject", 52, 7);
 
 
-INSERT INTO employees (first_name, last_name, role_id, manager_id, update_role)
+INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES
 ("Jimmys", "Johns", 1, 4),
 ("Dave", "Thomas", 2, 4),
